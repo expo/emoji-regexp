@@ -1,0 +1,23 @@
+{
+  "name": "emoji-regexp",
+  "version": "1.0.0",
+  "description": "A regular expression for Emoji",
+  "main": "emojiRegExp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/emoji-regexp.git"
+  },
+  "keywords": [
+    "emoji",
+    "regexp"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/emoji-regexp/issues"
+  },
+  "homepage": "https://github.com/exponentjs/emoji-regexp#readme"
+}
